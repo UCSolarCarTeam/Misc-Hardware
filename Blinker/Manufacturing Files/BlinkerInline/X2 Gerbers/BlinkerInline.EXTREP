@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: BlinkerInline.GBR   5/5/2018  6:00:28 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
+.gbr                Top Pad Master                          
+.gbr                Top Paste                               
+.gbr                Bottom Overlay                          
+.gbr                Bottom Paste                            
+.gbr                Top Solder                              
+.gbr                Top Overlay                             
+.gbr                Bottom Solder                           
+.gbr                Keep-Out Layer                          
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------
