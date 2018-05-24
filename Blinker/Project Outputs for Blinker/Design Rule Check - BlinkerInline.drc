@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : \\fs-calgary\home\rdunn\Solar\Misc-Hardware\ChargeRelay\Relay_Board.PcbDoc
+PCB File : \\fs-calgary\home\rdunn\Solar\Misc-Hardware\Blinker\BlinkerInline.PcbDoc
 Date     : 5/23/2018
-Time     : 7:32:38 PM
+Time     : 7:33:07 PM
 
 Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
 Rule Violations :0
@@ -43,14 +43,12 @@ Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Text "ACDC
-12V" (99.06mm,81.788mm) on Top Overlay 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 1
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:00
