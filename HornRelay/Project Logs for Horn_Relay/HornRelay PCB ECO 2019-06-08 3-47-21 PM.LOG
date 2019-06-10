@@ -1,0 +1,58 @@
+Added Component: Designator=D1(DO-35)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4448.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 3.8 x 1.9 mm (LxDia. max), Lead Dia. 0.53 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1(PCB_MLX_MICROFIT_1X2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(Molex Mini-Fit Jr 2x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(Molex Mini-Fit Jr 2x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P2(Molex Mini-Fit Jr 2x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(JSM1A-12V-5 15A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Bat_In Pin=P1-1
+Added Pin To Net: NetName=Bat_In Pin=U1-5
+Added Net: Name=Bat_In
+Added Pin To Net: NetName=Bat_Out Pin=P1-1
+Added Net: Name=Bat_Out
+Added Pin To Net: NetName=Bat_Voltage Pin=R1-1
+Added Pin To Net: NetName=Bat_Voltage Pin=R2-2
+Added Net: Name=Bat_Voltage
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetLabel11 Pin=R1-2
+Added Net: Name=NetLabel11
+Added Pin To Net: NetName=Relay_Control - Pin=D1-1
+Added Pin To Net: NetName=Relay_Control - Pin=P1-2
+Added Pin To Net: NetName=Relay_Control - Pin=U1-1
+Added Net: Name=Relay_Control -
+Added Pin To Net: NetName=Relay_Control Pin=D1-2
+Added Pin To Net: NetName=Relay_Control Pin=P1-1
+Added Pin To Net: NetName=Relay_Control Pin=U1-2
+Added Net: Name=Relay_Control
+Added Pin To Net: NetName=Relay_Out Pin=P2-1
+Added Pin To Net: NetName=Relay_Out Pin=U1-5
+Added Net: Name=Relay_Out
+Added Class: Name=HornRelay
+Added Room: Name=HornRelay

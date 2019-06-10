@@ -1,0 +1,8 @@
+Added Component: Designator=U1(JSM1A-12V-5 15A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Relay_Out Pin=U1-1
+Added Pin To Net: NetName=Relay_Control_Pos Pin=U1-2
+Added Pin To Net: NetName=Relay_Control_Neg Pin=U1-3
+Added Pin To Net: NetName=Bat Pin=U1-5
+Added Member To Class: ClassName=HornRelay Member=Component U1 JSM1A-12V-5 15A
+Added Room: Name=HornRelay

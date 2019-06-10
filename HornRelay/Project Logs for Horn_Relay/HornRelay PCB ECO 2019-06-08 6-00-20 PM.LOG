@@ -1,0 +1,25 @@
+Added Component: Designator=C1(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "*F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "*%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "*V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "*F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "*%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "*V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "*F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "*%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "*V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=Bat Pin=C1-2
+Added Pin To Net: NetName=Bat Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=Bat Pin=C3-2
+Added Member To Class: ClassName=HornRelay Member=Component C1 SCH_GENERIC_CAPACITOR_0603
+Added Member To Class: ClassName=HornRelay Member=Component C2 SCH_GENERIC_CAPACITOR_0603
+Added Member To Class: ClassName=HornRelay Member=Component C3 SCH_GENERIC_CAPACITOR_0603
+Added Room: Name=HornRelay

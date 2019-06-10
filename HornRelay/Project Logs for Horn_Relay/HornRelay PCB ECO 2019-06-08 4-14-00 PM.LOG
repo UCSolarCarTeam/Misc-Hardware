@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Relay_Control - Pin=U1-1
+Removed Pin From Net: NetName=Relay_Control Pin=U1-2
+Removed Pin From Net: NetName=Bat Pin=U1-5
+Removed Member From Class: ClassName=HornRelay Member=U1
+Added Component: Designator=*(JSM1A-12V-5 15A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Relay_Out Pin=*-1
+Added Pin To Net: NetName=Relay_Control Pin=*-2
+Added Pin To Net: NetName=Relay_Control - Pin=*-3
+Added Pin To Net: NetName=Bat Pin=*-5
+Added Member To Class: ClassName=HornRelay Member=Component * JSM1A-12V-5 15A
+Added Member To Class: ClassName=HornRelay Member=Component P1 SCH_MLX_1X2
+Added Member To Class: ClassName=HornRelay Member=Component P1 Molex Mini-Fit 1x2
+Added Room: Name=HornRelay

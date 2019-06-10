@@ -1,0 +1,8 @@
+Added Component: Designator=P1(PCB_MLX_MICROFIT_1X2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Bat_Voltage Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Member To Class: ClassName=HornRelay Member=Component P1 SCH_MLX_1X2
+Added Member To Class: ClassName=HornRelay Member=Component P1 Molex Mini-Fit 1x2
+Added Member To Class: ClassName=HornRelay Member=Component P1 SCH_MLX_1X2
+Added Room: Name=HornRelay

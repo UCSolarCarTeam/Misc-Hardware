@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=Relay_Control Pin=P3-1
+Removed Pin From Net: NetName=Relay_Control - Pin=P3-2
+Removed Pin From Net: NetName=Bat_Voltage Pin=R1-1
+Removed Pin From Net: NetName=Bat_Voltage Pin=R2-2
+Removed Pin From Net: NetName=Relay_Control Pin=U1-2
+Removed Pin From Net: NetName=Relay_Control - Pin=U1-3
+Change Component Comment : Designator=R2 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R1 Old Comment=4.7k New Comment=47k
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=Relay_Control_Neg Pin=P3-2
+Added Pin To Net: NetName=Relay_Control_Neg Pin=U1-3
+Added Net: Name=Relay_Control_Neg
+Added Pin To Net: NetName=Relay_Control_Pos Pin=P3-1
+Added Pin To Net: NetName=Relay_Control_Pos Pin=U1-2
+Added Net: Name=Relay_Control_Pos
+Added Room: Name=HornRelay

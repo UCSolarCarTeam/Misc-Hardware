@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Bat_In Pin=P1-1
+Added Pin To Net: NetName=Bat Pin=P1-1
+Added Pin To Net: NetName=Bat Pin=P1-1
+Added Pin To Net: NetName=Bat Pin=U1-5
+Added Net: Name=Bat
+Added Member To Class: ClassName=HornRelay Member=Component P1 SCH_MLX_1X2
+Added Member To Class: ClassName=HornRelay Member=Component P1 Molex Mini-Fit 1x2
+Added Room: Name=HornRelay

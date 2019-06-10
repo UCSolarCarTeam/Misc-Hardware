@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=Relay_Control_Neg Pin=D1-1
+Added Pin To Net: NetName=Relay_Control_Pos Pin=D1-2
+Added Room: Name=HornRelay
