@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Horn_Relay.PrjPCB]
+   Generated File[HornRelay.TXT]
+   Generated File[HornRelay.LDP]
+   Generated File[HornRelay.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:22:34 PM On 2019-06-09

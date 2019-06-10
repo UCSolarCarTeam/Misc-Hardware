@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: HornRelay.PcbDoc   2019-06-09  6:22:34 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HornRelay.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T2      35mil (0.9mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T3      50mil (1.27mm)                                            Round             6         PTH        0.00inch (0.00mm)
+T4      51mil (1.295mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T5      73mil (1.854mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T6      118mil (2.997mm)                                          Round             3         PTH        0.00inch (0.00mm)
+T7      120mil (3.048mm)                                          Round             2         NPTH       0.00inch (0.00mm)
+T8      125mil (3.175mm)                                          Round             3         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              28
+
+Total Processing Time (hh:mm:ss) : 00:00:00
